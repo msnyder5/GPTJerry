@@ -17,6 +17,8 @@ Install nextcord and revChatGPT by running `pip install -r requirements.txt`
 
 In `config.py` you need to place your discord bot token, as well as your OpenAI credentials, as specified on the [revChatGPT github](https://github.com/acheong08/ChatGPT). Here you can also change the initial prompt that Jerry uses.
 
+Note that you will need to enable typing intents for your bot.
+
 ## Running
 
 Run `main.py` to start the bot.
