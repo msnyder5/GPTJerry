@@ -1,6 +1,6 @@
-﻿# GPT-Jerry
+﻿# GPTJerry
 
-GPT-Jerry is a ChatGPT powered discord chatbot that uses [nextcord](https://github.com/nextcord/nextcord) and [revChatGPT](https://github.com/acheong08/ChatGPT).
+GPTJerry is a ChatGPT powered discord chatbot that uses [nextcord](https://github.com/nextcord/nextcord) and [revChatGPT](https://github.com/acheong08/ChatGPT).
 ## Features
 
  - Start a new chat thread with /chat
